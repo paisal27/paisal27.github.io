@@ -1,0 +1,33 @@
+.jumbotron{
+    padding-top: 4rem;
+    padding-bottom: 0rem;
+    background-color:white;
+
+}
+.about {
+    background-color:black ;
+    padding-top: 1rem;
+}
+.karya {
+    background-color:white;
+}
+.navbarku{
+    background-color: rgb(121, 28, 28);
+}
+.contact{
+    text-align: center;
+    padding: 2rem;
+    background-color:rgb(121, 28, 28);
+    
+}
+.contact ul li{
+    margin-right: 45px;
+    padding: 2rem;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+}
+.jurnal{
+    background-color: white;
+    padding-top: 5rem;
+}
